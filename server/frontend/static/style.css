@@ -124,3 +124,12 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.vertical_line {
+  border-left: thick solid black;
+}
+
+.number_link {
+    color: #0C9;
+    display: inline;
+}
